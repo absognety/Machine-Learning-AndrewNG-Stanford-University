@@ -1,2 +1,3 @@
-# machineLearning_courseraStanfordUniversity
-Machine Learning from Stanford University (Andrew Ng)
+# Machine Learning Course from Coursera by Andrew NG.
+
+All the solutions to assignments from the courses are shared here........
